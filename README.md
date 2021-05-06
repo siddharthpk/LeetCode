@@ -7,3 +7,6 @@ This repo contains my solution to the LeetCode problems I've solved so far.
   - SingleNumber
   - SmallestDivisor
   - TwoSum
+  - Binary2Integer
+  - AddTwoNumbersII
+  - InsertionSortList
