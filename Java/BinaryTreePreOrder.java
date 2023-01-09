@@ -18,7 +18,7 @@ public class TreeNode {
 }
 
 
-class binaryTreePostOrder {
+class BinaryTreePreOrder {
     public List<Integer> preorderTraversal(TreeNode root) {
         // Create a list to store data
         List<Integer> list = new ArrayList<>();
